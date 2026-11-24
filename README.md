@@ -83,3 +83,7 @@ Offline, no API keys needed.
 - `airfryer_agent/cli.py` — `list` / `cook` / `graph` CLI
 - `tests/test_agent.py` — offline tests
 - `snapshots/v1_command/` — v1 snapshot (`Command`-based routing) with its own README
+
+## Graph
+
+<img width="1374" height="1610" alt="image" src="https://github.com/user-attachments/assets/9562fe0a-ae46-4ae5-af99-3ab3594c6d85" />
